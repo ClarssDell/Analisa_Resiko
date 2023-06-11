@@ -2,7 +2,7 @@
 
 ## Variable Types
 
-Di bagian ini, akan mempelajari :
+Pada bagian ini, akan mempelajari :
 
 - Mengklasifikasikan variabel sebagai kualitatif atau kuantitatif.
 - Mendeskripsikan variabel multivariat.
