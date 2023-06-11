@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Dalam materi ini akan mempelajari 
+Dalam materi ini akan mempelajari :
 - Alasan premi harus bervariasi di antara pemegang polis dengan karakteristik risiko yang berbeda.
 - Arti dari spiral seleksi yang merugikan.
 - Pentingnya klasifikasi risiko.
