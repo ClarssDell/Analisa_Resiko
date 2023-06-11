@@ -2,7 +2,7 @@
 
 ## Frequency Distributions
 
-Pada dasarnya frekuensi distribusi yang kita ketahui adalah menjelaskan tentang jumlah pengamatan untuk setiap nilai dari sebuah variabel yang digambarkan menggunakan grafik dan tabel frekuensi atau dengan kata lain, tampilan visual yang menyajikan jumlah frekuensi di setiap rentang atau persentase penhgamatan sehingga informasi dapat diartikan lebih mudah. 
+Pada Dasarnya frekuensi distribusi yang kita ketahui adalah menjelaskan tentang jumlah pengamatan untuk setiap nilai dari sebuah variabel yang digambarkan menggunakan grafik dan tabel frekuensi atau dengan kata lain, tampilan visual yang menyajikan jumlah frekuensi di setiap rentang atau persentase penhgamatan sehingga informasi dapat diartikan lebih mudah. 
 
 ### Bagaimana Frekuensi menambah infromasi pada tingkat keparahan suatu kejadian
 
