@@ -29,7 +29,7 @@ Misalnya dalam perawatan kesehatan, keputusan untuk menggunakan perawatan keseha
 * Regulasi dan Administratif <br>
 regulator secara rutin mewajibkan pelaporan nomor dan jumlah klaim. Pemantauan seperti melihat potensi kesalahan saat melaporkan nomor klaim berkurang membantu memastikan stabilitas keuangan perusahaan asuransi ini.
 
-## 2.2 Distribusi Frekuensi Dasar
+##  Distribusi Frekuensi Dasar
 
 Variabel acak jumlah klaim dilambangkan dengan $N$, digunakan untuk mengasumsikan nilai bilangan bulat non-negatif ${0,1,...}$
 
@@ -196,7 +196,7 @@ $$
 
 untuk $r>0$ dan $\beta >-0$ lalu mendefinisikan pmf yang valid. distribusi yang ditentukan seperti diatas disebut distribusi binomial negatif dengan parameter $(r,\beta)$ dengan $r>0$ dan $\beta >-0$
 
-## 2.4 Mengestimasi Distibusi Frekuensi
+## Mengestimasi Distibusi Frekuensi
 
 Pada bagian ini, Anda akan mempelajari bagaimana caranya:
 
@@ -206,7 +206,7 @@ Pada bagian ini, Anda akan mempelajari bagaimana caranya:
 
 - Menghitung penaksir kemungkinan maksimum untuk distribusi binomial, distribusi Poisson, dan distribusi binomial negative
 
-### 2.4.1 Estimasi Parameter
+### Estimasi Parameter
 
 Pada Bagian 2.2 kita telah mempelajari tiga distribusi yang penting dalam memodelkan berbagai jenis data perhitungan yang timbul dari asuransi. Sekarang mari kita anggap bahwa kita memiliki sekumpulan data perhitungan yang ingin kita sesuaikan dengan sebuah distribusi, dan kita telah menentukan bahwa salah satu dari distribusi ini $(a,b,0)$
   
@@ -269,7 +269,7 @@ l'(q)=\frac{\rm d}{{\rm d}q}l(q)=\frac{1}{q}-\frac{2}{1-q}.
 Angka nol unik dari $l′(⋅)$ sama dengan $1/3$ , dan karena $l′′(⋅)$ adalah negatif, kita memiliki $1/3$ adalah pemaksimum unik dari kemungkinan dan karenanya merupakan estimasi kemungkinan maksimum.
 
 
-### 2.4.2 Distribusi Frekuensi MLE
+### Distribusi Frekuensi MLE
 
 Berikut ini, kami menurunkan penaksir kemungkinan maksimum, *mle*(Maximum likelihood estimator), untuk tiga anggota kelas $(a,b,0)$. Kita mulai dengan meringkas pembahasan di atas. Dalam situasi mengamati *iid*, independen dan berdistribusi identik, variabel acak $X_1, X_2,...,X_n$  dari sebuah distribusi dengan *pmf* $p_θ$, di mana $θ$ memiliki nilai yang tidak diketahui dalam $Θ⊆R^d$ , kemungkinan $L(⋅)$, sebuah fungsi pada $Θ$ didefinisikan sebagai
 
@@ -514,7 +514,7 @@ $$
 \end{array}
 }
 $$
-## 2.5 Other Frequency Distributions
+## Other Frequency Distributions
 
 Sub topik:
 
@@ -524,7 +524,7 @@ Sub topik:
 
 3. Menghitung probabilitas menggunakan hubungan rekursif
 
-### 2.5.1 Zero Truncation or Modification
+### Zero Truncation or Modification
 
 Contoh:
 
@@ -567,7 +567,7 @@ $$
 p^M_k= p^M_0 \cdot \delta_{0}(k) + (1-p^M_0) \cdot p^T_k, \quad k\geq 0.
 $$
 
-## 2.6. Distribusi Campuran
+## Distribusi Campuran
 
 Pada bagian ini, akan mempelajari cara : 
 
@@ -654,7 +654,7 @@ $f_{N|Λ=λ}(N=k)=\frac{e^{−λ}λ^k}{k!},k≥0;andfΛ(λ)=\frac{λ^{α−1}e^{
 Dengan mempertimbangkan campuran dari kelas distribusi parametrik, kita meningkatkan kekayaan kelas tersebut. Perluasan distribusi ini menghasilkan kelas campuran yang mampu melayani lebih banyak aplikasi daripada kelas parametrik yang kita gunakan sebelumnya. Pemodelan campuran adalah teknik pemodelan yang penting dalam aplikasi asuransi dan bab-bab berikutnya akan membahas lebih banyak aspek dari teknik pemodelan ini.
 
 
-## 2.7 Goodnes of Fit
+## Goodnes of Fit
 
 Dalam Materi ini akan mempelajari:
 - Perhitungan Statisik dengan menggunakan Goodness of fit dalam membandingkan distribusi distrik yang dihipotesiskan dengan sample pengamatan diskrit
